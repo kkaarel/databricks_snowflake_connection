@@ -1,4 +1,4 @@
-#####Connecting Databricks with Snowflake
+##### Connecting Databricks with Snowflake
 
 Official documentation is missing **role** from the docuemntation
 
