@@ -1,5 +1,5 @@
-Connecting DataBricks with snowflake 
+Connecting Databricks with Snowflake
 
---Python
+-- Python
 
---Scala
+-- Scala
