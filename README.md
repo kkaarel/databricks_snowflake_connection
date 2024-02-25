@@ -1,6 +1,6 @@
 ##### Connecting Databricks with Snowflake
 
-Official documentation is missing **role** from the docuemntation
+Official documentation is missing **role** 
 
 Databricks documentation can be found from here:
 
